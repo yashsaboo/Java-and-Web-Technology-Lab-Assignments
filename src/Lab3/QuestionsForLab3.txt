@@ -1,0 +1,8 @@
+Lab Assignment 3
+
+1. WAP which will read a paragraph of text & then count all occurrences of a particular word. (* do not use substring function).
+2. WAP to implement user-defined java functions to perform various string operations such as Copy, Concatenation, Length, Reversing, Palindrome, string compare and to find occurrence of substring.
+3. WAP to break a sentence into words, print each word and also the reverse order for each word.
+4. WAP which will read a string and rewrite it in the alphabetical order. For example, the STRING should be written as GINRST.
+5. WAP to reverse the words in a String using StringTokenizer.
+6. WAP to reverse a string using recursive methods. You should not use any string reverse methods to do this.
